@@ -1,2 +1,2 @@
 # DSF-analysis
-https://dsf-analysis.herokuapp.com/
+https://dsf-fit.herokuapp.com/
